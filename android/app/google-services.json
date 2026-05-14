@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842150161295",
+    "project_id": "aid-tracker-40500",
+    "storage_bucket": "aid-tracker-40500.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842150161295:android:0209cabf9e019b1898b9fa",
+        "android_client_info": {
+          "package_name": "com.example.aidtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5c_n5gTscVBQhvMVICd9plbutrh5bGDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
